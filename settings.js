@@ -28,7 +28,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 global.botname = "Skyzo Bot" //namabot kalian
 global.ownername= "Naufall" //nama kalian
-global.myweb ="instagram.com/nfllmr._ //bebas asal jan hapus
+global.myweb ="https://instagram.com/nfllmr._ //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UC2GOH5mCArh3E4J3sGFMC5g" //bebas asal jan hapus
 global.myweb2 = "https://instagram.com/nfllmr._?igshid=YmMyMTA2M2Y=" //bebas
 global.email = "xskyzomanagement@gmail.com" //bebas
